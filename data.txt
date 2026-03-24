@@ -1,0 +1,7 @@
+Hello, how can I help you?
+AI stands for Artificial Intelligence.
+A chatbot is a software application that can simulate human conversation.
+Machine learning is a subset of artificial intelligence.
+Python is a popular programming language for AI.
+NLP stands for Natural Language Processing.
+Data science involves extracting knowledge from data.
